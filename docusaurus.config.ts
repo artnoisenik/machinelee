@@ -70,30 +70,15 @@ const config: Config = {
           label: 'GitHub',
           position: 'right',
         },
+        {
+          href: 'https://www.linkedin.com/newsletters/machinelee-7125253234671181825',
+          label: 'LinkedIn',
+          position: 'right',
+        },
       ],
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'LinkedIn',
-              href: 'https://www.linkedin.com/newsletters/machinelee-7125253234671181825',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-          ],
-        },
-      ],
       copyright: `Copyright © ${new Date().getFullYear()} Machinelee Built with Docusaurus.`,
     },
     prism: {
