@@ -6,7 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #F5F5F5;
+  --ifm-color-primary: #303846;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -14,24 +14,14 @@
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-font-color-base-inverse: #000000;
-  --ifm-hero-background-color: #F5F5F5;
   --ifm-link-color: #3FAE49 !important;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  .menu__link--active {
-    color: #303846 !important;
-  } 
-  .breadcrumbs__item--active .breadcrumbs__link {
-    color: #303846 !important;
-  }
-  .navbar__link:hover, .navbar__link--active {
-    color: #3FAE49;
-  }
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #303846;
+  --ifm-color-primary: #f5f5f5;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
   --ifm-color-primary-darkest: #1a8870;
@@ -40,16 +30,6 @@
   --ifm-color-primary-lightest: #4fddbf;
   --ifm-font-color-base-inverse: #ffffff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-  --ifm-hero-background-color: #303846;
   --ifm-link-color: #3FAE49 !important;
-  .menu__link--active {
-    color: #F5F5F5 !important;
-  } 
-  .breadcrumbs__item--active .breadcrumbs__link, .menu__link--active {
-    color: #F5F5F5 !important;
-  }
-  .navbar__link:hover, .navbar__link--active {
-    color: #3FAE49;
-  }
 }
 
