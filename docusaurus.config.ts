@@ -82,10 +82,6 @@ const config: Config = {
               label: 'LinkedIn',
               href: 'https://www.linkedin.com/newsletters/machinelee-7125253234671181825',
             },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/lastdonutboy',
-            },
           ],
         },
         {
