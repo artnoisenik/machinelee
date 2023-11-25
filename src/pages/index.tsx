@@ -14,7 +14,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-        <span className='h1FrontPage'>{siteConfig.tagline} <span className='mlColor'>{siteConfig.title}</span>.</span>
+        <span className="h1FrontPage">{siteConfig.tagline} <span className="mlColor">{siteConfig.title}</span>.</span>
         </Heading>
       </div>
     </header>

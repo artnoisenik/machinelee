@@ -1,11 +1,9 @@
 .mlColor {
     color: #3FAE49;
-}
+  }
 
-container
-
-@media (min-width: 800px) {
+  @media screen and (min-width: 996px) {
     .h1FrontPage {
-        font-size: 6rem;
+      font-size: 6rem;
     }
   }
