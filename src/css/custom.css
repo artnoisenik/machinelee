@@ -14,7 +14,7 @@
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-font-color-base-inverse: #000000;
-  --ifm-link-color: #3FAE49;
+  --ifm-link-color: #3FAE49 !important;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   .menu__link--active {
@@ -39,7 +39,7 @@
   --ifm-color-primary-lightest: #4fddbf;
   --ifm-font-color-base-inverse: #ffffff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-  --ifm-link-color: #3FAE49;
+  --ifm-link-color: #3FAE49 !important;
   .menu__link--active {
     color: #F5F5F5 !important;
   } 
