@@ -2,7 +2,7 @@
 slug: welcome
 title: Welcome
 authors: [pskaggs]
-tags: [facebook, hello, docusaurus]
+tags: [machinelee, hello, ai]
 ---
 
 Welcome to the Machinelee blog. We'll be posting updates to Machinelee. 
