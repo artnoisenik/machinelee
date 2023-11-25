@@ -1,3 +1,8 @@
+---
+id: autogpt
+title: AutoGPT
+sidebar_position: 11
+---
 # AutoGPT: The Autonomous AI Assistant for Modern Times
 
 The realm of Artificial Intelligence (AI) is continuously evolving, and one of the latest innovations that is making waves is AutoGPT. As a beginner in AI, understanding AutoGPT and its capabilities can provide insights into the future of AI technology and its practical applications. This article aims to demystify AutoGPT for those new to the concept.

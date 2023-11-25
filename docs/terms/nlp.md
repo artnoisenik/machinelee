@@ -1,3 +1,8 @@
+---
+id: nlp
+title: Natural Language Processing
+sidebar_position: 3
+---
 # Navigating the World of NLP: A Beginner's Guide to Natural Language Processing in AI
 
 Natural Language Processing (NLP) is a fascinating and rapidly evolving domain within Artificial Intelligence (AI) that focuses on the interaction between computers and human language. As a beginner in AI, understanding NLP is crucial for comprehending how machines understand, interpret, and respond to human language. This article aims to provide a beginner-friendly overview of NLP, its workings, applications, and significance.

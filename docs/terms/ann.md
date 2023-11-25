@@ -1,3 +1,8 @@
+---
+id: ann
+title: Artificial Neural Networks (ANNs)
+sidebar_position: 9
+---
 # Artificial Neural Networks: Simplifying AI's Brain for Beginners
 
 In the realm of Artificial Intelligence (AI), Artificial Neural Networks (ANNs) stand as one of the most fundamental and intriguing concepts. As a beginner in AI, grasping the basics of ANNs is essential to understand how AI mimics the human brain’s functioning. This article aims to provide a clear and straightforward introduction to Artificial Neural Networks, explaining what they are, how they work, and why they are a pivotal part of modern AI.

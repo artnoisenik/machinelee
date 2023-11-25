@@ -1,3 +1,8 @@
+---
+id: machine-learning
+title: Machine Learning
+sidebar_position: 6
+---
 # Machine Learning Demystified: A Beginner’s Guide to AI’s Core Engine
 
 In the vast and dynamic world of Artificial Intelligence (AI), Machine Learning (ML) stands out as a fundamental and transformative element. For beginners in AI, understanding the basics of Machine Learning is essential to grasp how modern AI systems learn and make decisions. This beginner-friendly article aims to unpack what Machine Learning is, how it works, and its importance in the field of AI.

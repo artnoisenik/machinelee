@@ -1,10 +1,14 @@
 # LLaMA: A Beginner's Guide to Understanding Its Role in AI
 
-In the ever-evolving landscape of Artificial Intelligence (AI), one term that you might encounter is "LLaMA." However, this isn't a reference to the friendly South American camelid, but rather an intriguing aspect of AI technology. This article will provide beginners with an understanding of what LLaMA is in the context of AI and why it matters.
+In the ever-evolving landscape of Artificial Intelligence (AI), one term that you might encounter is "LLaMA." However, this isn't a reference to the friendly South American camelid, but rather an intriguing aspect of AI technology. This article will provide beginners with an understanding of what LLaMA (Large Language Model Meta AI) is in the context of AI and why it matters.
 
 ## What is LLaMA?
 
 In AI, "LLaMA" generally refers to a type of language model or an approach within the broader field of Large Language Models (LLMs). These models are designed to understand, interpret, and interact using human language. LLaMA models are part of the exciting advancements in natural language processing (NLP), a subset of AI focused on the interaction between computers and human language.
+
+### The Team Behind LLaMA
+
+Meta, a tech giant known for its social media platforms and technological innovations, has delved deep into the realm of artificial intelligence through its dedicated research division, Meta AI. Within this division, LLaMA (Large Language Model Meta AI) emerged as a prominent project, reflecting Meta's commitment to advancing natural language processing (NLP) capabilities. Meta's involvement in LLaMA underscores its strategy to lead and innovate in AI, particularly in understanding and generating human languag
 
 ### The Purpose of LLaMA in AI
 
@@ -42,8 +46,8 @@ LLaMA models in AI are at the forefront of advancements in natural language proc
 
 To learn more about LLaMA and related AI technologies, consider these resources:
 
-- [OpenAI](https://openai.com/) : Provides research and updates on the latest in AI, including language models.
-- [Google AI Blog](https://ai.googleblog.com/) : Offers insights into Google's AI research and developments.
-- [Artificial Intelligence News](https://www.artificialintelligence-news.com/) : Covers the latest news and trends in AI, including advancements in language models.
+- [LLaMa Announcement](https://ai.meta.com/blog/large-language-model-llama-meta-ai/) : Meta's initial aannouncment of LLaMa on February 24, 2023.
+- [Llama](https://ai.meta.com/llama/) : The official Llama site. Now home to Llama 2 and Code Llama.
+- [Llama 2 Announcement on Hugging Face](https://huggingface.co/blog/llama2) : A breakdown of Llama 2 and its family of models.
 
 Understanding LLaMA models in AI is key to appreciating the current and future impacts of AI technology in our lives. As AI continues to evolve, keeping informed about developments like LLaMA will be crucial for anyone interested in the field of technology.

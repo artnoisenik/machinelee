@@ -1,3 +1,8 @@
+---
+id: privategpt
+title: PrivateGPT
+sidebar_position: 13
+---
 # PrivateGPT: Enhancing AI Privacy in the Digital Age
 
 In a world increasingly driven by digital interaction and data, the question of privacy in AI is more pertinent than ever. This is where PrivateGPT enters the scene. It's a tool designed to address privacy concerns associated with using large language models (LLMs) like OpenAI's ChatGPT. For beginners in AI, understanding PrivateGPT is crucial to comprehending the balance between leveraging AI's power and maintaining privacy. This article aims to provide a clear understanding of what PrivateGPT is, its functionalities, and its significance.

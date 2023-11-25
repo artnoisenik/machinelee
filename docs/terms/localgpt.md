@@ -1,3 +1,8 @@
+---
+id: localgpt
+title: LocalGPT
+sidebar_position: 12
+---
 # LocalGPT: Bringing AI to Your Personal Devices
 
 Artificial Intelligence (AI) is no longer just a remote service accessed over the cloud. With innovations like LocalGPT, AI is becoming more personal, private, and accessible. This article introduces beginners to LocalGPT, an open-source initiative that brings the power of Generative Pre-trained Transformers (GPT) models to local devices, ensuring privacy and versatility in AI interactions.

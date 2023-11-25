@@ -1,3 +1,8 @@
+---
+id: ffine-tuning
+title: Fine Tuning
+sidebar_position: 8
+---
 # Understanding Fine Tuning in AI: A Beginner's Guide
 
 Artificial Intelligence (AI) has made significant strides in recent years, and one of the key processes behind the efficiency of AI models, particularly in the field of Natural Language Processing (NLP), is fine tuning. In this beginner-friendly article, we will delve into the concept of fine tuning, its importance, and how it's applied in AI models.

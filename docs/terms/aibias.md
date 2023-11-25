@@ -1,5 +1,9 @@
-# Bias in AI
-## Understanding and Addressing the Challenge for Beginners
+---
+id: aibias
+title: Bias in AI
+sidebar_position: 4
+---
+# Bias in AI: Understanding and Addressing the Challenge for Beginners
 
 In the rapidly evolving world of Artificial Intelligence (AI), an important issue that often comes under scrutiny is bias. AI systems, despite their sophistication, are not immune to biases that can lead to unfair or discriminatory outcomes. This beginner-friendly article aims to shed light on what bias in AI means, how it occurs, and the steps being taken to mitigate it.
 

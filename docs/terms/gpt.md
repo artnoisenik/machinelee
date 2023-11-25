@@ -1,3 +1,8 @@
+---
+id: gpt
+title: Generative Pre-trained Transformer (GPT)
+sidebar_position: 5
+---
 # Understanding GPT: A Beginner's Guide to AI's Language Revolution
 
 Artificial Intelligence (AI) has been a buzzword for some time, and one of the most groundbreaking developments in this field is the Generative Pre-trained Transformer (GPT). As a beginner in AI, understanding GPT is crucial to grasp the current capabilities and future potential of AI, especially in language processing. This article aims to provide a clear, beginner-friendly explanation of what GPT is, how it works, and why it's significant.

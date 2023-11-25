@@ -1,3 +1,8 @@
+---
+id: deep-learning
+title: Deep Learning
+sidebar_position: 7
+---
 # Deep Learning Unveiled: A Beginner's Journey into Advanced AI
 
 Deep Learning, a subset of Machine Learning in the field of Artificial Intelligence (AI), has gained significant attention for its remarkable ability to make sense of large and complex datasets. This beginner-friendly article aims to demystify Deep Learning, explaining its basics, how it functions, and why it's pivotal in the advancement of AI.

@@ -1,3 +1,8 @@
+---
+id: hallucinations
+title: AI Hallucinations
+sidebar_position: 9
+---
 # Decoding AI Hallucinations: A Beginner's Guide
 
 In the world of Artificial Intelligence (AI), "hallucinations" may sound like a term borrowed from science fiction, but it's a real phenomenon that plays a significant role in how AI systems operate and sometimes err. This article aims to demystify AI hallucinations for beginners, exploring what they are, why they happen, and their implications.

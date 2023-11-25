@@ -1,3 +1,8 @@
+---
+id: chatbots
+title: Chatbots
+sidebar_position: 2
+---
 # Chatbots and AI: A Beginner's Guide to Virtual Conversations
 
 In the rapidly advancing world of Artificial Intelligence (AI), chatbots have emerged as a practical and widespread application. For beginners delving into AI, understanding chatbots is essential to grasp how AI can simulate human-like interactions. This article aims to provide a beginner-friendly overview of chatbots, their workings, applications, and significance in the AI landscape.
