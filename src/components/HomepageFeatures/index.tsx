@@ -24,8 +24,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw-machinelee-data.svg').default,
     description: (
       <>
-        Machinelee want to create a place to find easy to digest information on 
-        artificial intelligence by collecting as much information as possible.
+        At Machinelee, we're dedicated to compiling a wealth of information and presenting 
+        it in a way that's informative and approachable.
       </>
     ),
   },
