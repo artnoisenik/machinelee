@@ -42,8 +42,8 @@ LLaMA models in AI are at the forefront of advancements in natural language proc
 
 To learn more about LLaMA and related AI technologies, consider these resources:
 
-- [OpenAI](https://openai.com/): Provides research and updates on the latest in AI, including language models.
-- [Google AI Blog](https://ai.googleblog.com/): Offers insights into Google's AI research and developments.
-- [Artificial Intelligence News](https://www.artificialintelligence-news.com/): Covers the latest news and trends in AI, including advancements in language models.
+- [OpenAI](https://openai.com/) : Provides research and updates on the latest in AI, including language models.
+- [Google AI Blog](https://ai.googleblog.com/) : Offers insights into Google's AI research and developments.
+- [Artificial Intelligence News](https://www.artificialintelligence-news.com/) : Covers the latest news and trends in AI, including advancements in language models.
 
 Understanding LLaMA models in AI is key to appreciating the current and future impacts of AI technology in our lives. As AI continues to evolve, keeping informed about developments like LLaMA will be crucial for anyone interested in the field of technology.
