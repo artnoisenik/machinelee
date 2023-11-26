@@ -1,10 +1,10 @@
 ---
 id: beginner-guide
-title: Understanding Artificial Intelligence
+title: An Introduction to Artificial Intelligence
 sidebar_position: 1
 ---
 
-# Understanding Artificial Intelligence: A Beginner's Guide
+# A Brief Introduction to Artificial Intelligence
 
 **Introduction to AI**
 
