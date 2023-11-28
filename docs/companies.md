@@ -1,3 +1,9 @@
+---
+id: companies
+title: Prominent Companies in the Field
+sidebar_position: 7
+---
+
 Several companies and organizations have developed Large Language Models (LLMs). Here's a list of some notable ones:
 
 1. **OpenAI**: Known for developing the GPT (Generative Pre-trained Transformer) series, including GPT-3 and GPT-4.
