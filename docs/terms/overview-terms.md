@@ -10,12 +10,6 @@ This guide provides a foundational understanding of key terms in the field of AI
 
 2. **Hallucinations:** In the context of LLMs, hallucinations refer to instances where the model generates incorrect or nonsensical information, often with confidence. These are not deliberate fabrications but result from the model's limitations in understanding context or factual accuracy.
 
-3. **LLaMA (Language Model Meta-AI):** This term typically refers to a family of models or a framework designed to understand and analyze language. It's a part of the broader category of LLMs, emphasizing the ability to process and interpret human language.
-
-4. **OLLaMa:** This term is less commonly used and might be a specific variation or a specialized implementation of LLMs. It could refer to a model or framework with unique characteristics or purposes, distinct from standard LLMs.
-
-5. **LangChain:** LangChain is a concept or framework used in AI for chaining together different language models or components to achieve complex tasks. It can be understood as a method to combine the strengths of various models to improve overall performance or capabilities.
-
 6. **LocalGPT:** This likely refers to a version of a GPT (Generative Pre-trained Transformer) model that is designed to run locally on a user's machine or a private server, as opposed to being hosted remotely. This can be important for privacy, speed, or offline access.
 
 7. **AutoGPT:** This term seems to imply an automated or self-running version of a GPT model. It could suggest a system where the model operates with minimal human intervention, possibly adapting or improving itself over time.

@@ -1,13 +1,13 @@
 ---
 id: brief-history
-title: A Brief History of Artificial Intelligence
+title: A Brief History of AI
 sidebar_position: 1
 ---
 
 # A Brief History of Artificial Intelligence
 
 #### The Genesis (1940s-1950s)
-- **Early Concepts**: The seeds of AI were planted in the 1940s. Alan Turing, a British polymath, posed the question, "Can machines think?" in his seminal paper, “Computing Machinery and Intelligence” (1950). This period also saw the development of the first computers, like the ENIAC, laying the groundwork for computational theories.
+- **Early Concepts**: The seeds of AI were planted in the 1940s. Alan Turing, a British polymath, posed the question, "Can machines think?" in his seminal paper, [“Computing Machinery and Intelligence” (1950)](https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf). This period also saw the development of the first computers, like the ENIAC, laying the groundwork for computational theories.
 
 #### The Golden Years (1950s-1970s)
 - **Birth of AI (1956)**: The term "Artificial Intelligence" was first coined by John McCarthy at the Dartmouth Conference in 1956. This event marked the official start of AI as an academic discipline.

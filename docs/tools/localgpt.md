@@ -31,16 +31,10 @@ LocalGPT is built using advanced AI frameworks like LangChain and incorporates m
 
 The introduction of LocalGPT marks a significant shift in how AI can be utilized. It brings AI closer to the user, both literally and figuratively, allowing for a more personalized and secure interaction. This shift is particularly important in a world increasingly concerned with data privacy and security.
 
-## Conclusion
-
-LocalGPT represents a vital step towards a more private and accessible AI future. By running AI models locally, it empowers users to harness the power of AI directly on their devices, ensuring data privacy and offering a new level of convenience in AI interactions.
-
 ### Further Reading
 
 For those interested in exploring LocalGPT and similar technologies, the following resources offer valuable insights:
 
-- **LocalGPT on GitHub:** [LocalGPT GitHub Page](https://github.com/localGPT) - The primary source for downloading LocalGPT, with documentation and user guides.
+- **LocalGPT on GitHub:** [LocalGPT GitHub Page](https://github.com/PromtEngineer/localGPT) - The primary source for downloading LocalGPT, with documentation and user guides.
 - **AI Privacy Concerns:** Articles on platforms like [Wired](https://www.wired.com/) or [TechCrunch](https://techcrunch.com/) often discuss the latest developments and concerns in AI privacy.
 - **Understanding GPT Models:** Websites like [OpenAI](https://openai.com/) provide extensive information on GPT models, which are foundational to understanding LocalGPT's functionality.
-
-LocalGPT is not just a tool; it's a paradigm shift in AI usage, emphasizing user control, privacy, and local processing. As AI continues to evolve, tools like LocalGPT will play a crucial role in shaping how we interact with and benefit from this transformative technology.

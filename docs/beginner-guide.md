@@ -6,13 +6,17 @@ sidebar_position: 1
 
 # A Brief Introduction to Artificial Intelligence
 
-**Introduction to AI**
+**What is AI?**
 
 Artificial Intelligence, or AI, refers to the simulation of human intelligence in machines. These AI systems are designed to think like humans and mimic their actions. The term can also apply to any machine exhibiting traits associated with a human mind, such as learning and problem-solving.
 
 **History and Development of AI**
 
-The concept of AI dates back to ancient history, with myths and stories of artificial beings. However, the field of AI as we know it began in the mid-20th century, with pioneers like Alan Turing, who proposed the Turing Test as a measure of machine intelligence. The history of AI has been a rollercoaster of high expectations and significant setbacks, known as AI winters.
+The field of AI as we know it began in the mid-20th century, with pioneers like Alan Turing, who proposed the Turing Test as a measure of machine intelligence. The history of AI has been a rollercoaster of high expectations and significant setbacks, known as AI winters.
+
+:::info
+**AI winter** refers to a phase characterized by diminished financial support and declining enthusiasm in AI research.
+:::
 
 For a deeper historical insight, you can refer to:
 - [History of AI - Wikipedia](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
@@ -24,6 +28,10 @@ AI works by combining large amounts of data with fast, iterative processing and 
 - Machine learning
 - Neural networks
 - Deep learning
+
+:::info 
+**Iterative processing** is like doing a puzzle in stages, rather than trying to complete it all at once. Imagine you have a puzzle of a landscape. Instead of trying to put together the entire scene at once, you might start with just the sky, then move on to the trees, and so on. Each time you complete a section, you check to see if it looks right and make any necessary adjustments before moving on to the next part. In the same way, iterative processing in computing means breaking down a task into smaller parts, working on one part at a time, checking it, and then moving on to the next, until the whole task is completed.
+:::
 
 To understand these concepts better, you might find these resources helpful:
 - [Machine Learning for Beginners - IBM](https://www.ibm.com/cloud/learn/machine-learning)
@@ -48,11 +56,3 @@ As AI becomes more integrated into our lives, ethical concerns are raised about 
 For a balanced view on AI ethics and future, consider these articles:
 - [Ethics of AI - MIT](https://news.mit.edu/topic/ethics-of-ai)
 - [Future of AI - Oxford University](https://www.oxfordmartin.ox.ac.uk/blog/the-future-of-ai/)
-
-**Conclusion**
-
-AI is a rapidly evolving field with immense potential. As beginners, understanding its basics, applications, and ethical considerations is crucial. As AI continues to grow, staying informed and engaged with this technology will be increasingly important.
-
----
-
-This article provides a starting point for beginners to understand AI, with links to additional resources for more in-depth knowledge.

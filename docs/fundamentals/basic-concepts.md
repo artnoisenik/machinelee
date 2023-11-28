@@ -9,6 +9,10 @@ sidebar_position: 1
 ## Introduction
 Artificial Intelligence (AI) has evolved from a science fiction dream into a critical part of our everyday lives. We're surrounded by AI systems, from the algorithms recommending our next online purchase to the voice assistants in our smartphones. But what exactly is AI, and how does it work? This article will delve into the fundamental principles that form the backbone of AI.
 
+:::info
+An **algorithm** is like a recipe for a computer. It's a set of step-by-step instructions that the computer follows to solve a problem or complete a task. Just like a recipe guides you through making a dish, an algorithm guides the computer on what to do next. This can be anything from adding numbers to sorting a list of names.
+:::
+
 ## What is Artificial Intelligence?
 At its core, AI is the field of computer science dedicated to creating systems that can perform tasks which typically require human intelligence. These tasks include problem-solving, pattern recognition, learning, and understanding natural language. 
 
@@ -34,6 +38,3 @@ AI systems can perceive their environment, which may include reading text, heari
 
 ## Ethical Considerations
 As AI becomes more prevalent, ethical considerations are increasingly important. This includes issues like privacy, security, and the potential impact on jobs. The [Future of Life Institute](https://futureoflife.org/) discusses these topics in depth.
-
-## Conclusion
-The basic principles of AI are foundational to understanding how these technologies are transforming our world. As AI continues to evolve, it will play an increasingly significant role in our daily lives, making an understanding of its principles essential for anyone interested in the future of technology.
