@@ -1,6 +1,6 @@
 {
     "label": "AI History",
-    "position": 2,
+    "position": 5,
     "link": {
         "type": "generated-index",
         "description": "A brief overview of the history of Artificial Intelligence."

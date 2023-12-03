@@ -5,6 +5,8 @@ sidebar_position: 1
 ---
 # Important Figures in AI
 
+We recognize there are many contributors to the field of AI. While this is not an exhaustive list, we believe this is an excellent start to explore the foundations of artificial intelligence.
+
 1. **Alan Turing** - Often considered the father of theoretical computer science and artificial intelligence. His famous work includes the Turing Test and foundational concepts in computing.
    - Relevant Paper: "Computing Machinery and Intelligence" (1950)
 
@@ -17,7 +19,7 @@ sidebar_position: 1
 4. **Allen Newell and Herbert A. Simon** - Known for their work in human cognitive psychology and AI, they created the first AI program, Logic Theorist.
    - Relevant Paper: "Human Problem Solving" (1972)
 
-5. **Geoffrey Hinton** - A key figure in the development of deep learning and neural networks. His work on backpropagation is foundational in the field.
+5. **Geoffrey Hinton** - A key figure in the development of deep learning and neural networks. His work on back-propagation is foundational in the field.
    - Relevant Paper: "Learning representations by back-propagating errors" (1986)
 
 6. **Yann LeCun** - Made significant contributions to the field of deep learning, especially in convolutional neural networks (CNNs), which are widely used in image recognition and processing tasks.
