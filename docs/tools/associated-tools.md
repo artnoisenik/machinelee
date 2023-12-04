@@ -1,6 +1,50 @@
+---
+id: associated-tools
+title: AI Tools
+sidebar_position: 1
+---
+
 # AI Tools: From Software Libraries to Platforms
 
 To help beginners navigate this rapidly evolving landscape, here is a list of essential tools associated with AI. These tools, ranging from software libraries to comprehensive platforms, are designed to facilitate various aspects of AI development, from data analysis to building complex machine learning models. Whether you're just starting out or looking to deepen your understanding of AI, these tools will provide a solid foundation for your learning and exploration.
+
+### Beginner Platforms
+
+These chatbots and platforms are excellent places to start exploring the possibilities of AI. The resources are a mix of paid and free.
+
+1. [**ChatGPT**](https://openai.com/chatgpt): ChatGPT has been pivotal in the AI chatbot revolution, offering versatile conversation-based tools.
+
+2. [**Jasper**](https://www.jasper.ai/): Best suited for businesses and marketers, Jasper is a top choice as an AI chatbot.
+
+3. [**YouChat**](https://you.com/): This is an excellent ChatGPT alternative, especially for those looking for a different flavor in AI chatbots.
+
+4. [**Chatsonic by Writesonic**](https://writesonic.com/chat): Ideal for news content creators, Chatsonic offers specialized features for this niche.
+
+5. [**IBM Watson Assistant**](https://www.ibm.com/products/watsonx-assistant): Known for personalized customer support, this chatbot uses data from customer interactions to offer tailored solutions.
+
+6. [**Ada**](https://www.ada.cx/): Utilizing machine learning, Ada improves its responses over time, providing increasingly precise solutions for customers.
+
+7. [**REVE Chat**](https://www.revechat.com): A leading no-code chatbot platform, REVE Chat includes a visual flow builder for hassle-free chatbot creation, ideal for those without coding experience.
+
+8. [**Tidio**](https://www.tidio.com/): Highly rated for small and medium-sized businesses, Tidio offers an easy and quick chatbot editor, integrating live chat with chatbots.
+
+### Beginner Resources
+
+These resources are good starting points for those interested going deeper into the nuts and bolts of AI. 
+
+1. [**DataCamp's Guide on AI**](https://www.datacamp.com): DataCamp offers a comprehensive guide for learning AI from scratch in 2023, featuring expert tips, helpful resources, and industry insights. This can be a great starting point for absolute beginners.
+
+2. [**Artificial Intelligence Certification by Stanford University**](https://online.stanford.edu/programs/artificial-intelligence-professional-program): This beginners' course is offered by Stanford University, targeting candidates with a background in Computer Science and professional software engineers who are interested in AI. The course provides certification in AI.
+
+3. [**Free AI Training Courses (Tech.co)**](https://tech.co/news/best-free-ai-training-courses): Tech.co lists the best free AI training courses available in 2023. These include offerings from renowned companies like Google and Microsoft.
+
+4. [**Coursera's AI Courses**](https://www.coursera.org/courses?query=artificial%20intelligence): Coursera has curated a selection of beginner-friendly AI courses that introduce learners to the fundamentals of AI.
+
+5. [**Google's AI Resources**](https://ai.google/): Google offers over 20 resources including guides, podcasts, videos, courses, and interactive content. These resources cover various topics, including machine learning and TensorFlow APIs. Many of these resources are free.
+
+### Additional Software and Platforms
+
+This is a list of more advanced resources that are compliments to AI. The list includes programming languages, libraries, APIs, frameworks, and more.
 
 1. [**TensorFlow**](https://www.tensorflow.org/): An open-source library developed by the Google Brain team, widely used for machine learning and deep learning applications.
 
@@ -41,3 +85,5 @@ To help beginners navigate this rapidly evolving landscape, here is a list of es
 19. [**Prolog**](https://www.swi-prolog.org/): A logic programming language associated with artificial intelligence and computational linguistics.
 
 20. [**AutoML tools**](https://cloud.google.com/automl): Automated machine learning tools like Google's AutoML, AutoKeras, and others, which automate the process of selecting and tuning machine learning models.
+
+21. [**Hugging Face Spaces**](https://huggingface.co/spaces): A collection of Machine Learning based apps made by the Hugging Face community. 

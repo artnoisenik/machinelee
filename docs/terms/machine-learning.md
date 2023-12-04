@@ -43,8 +43,6 @@ ML is not without its challenges. Issues like data privacy, bias in training dat
 
 For those interested in delving deeper into Machine Learning, the following resources are recommended:
 
-- **Introductory Courses:** Websites like [Coursera](https://www.coursera.org/) and
-
- [edX](https://www.edx.org/) offer beginner courses in Machine Learning and AI.
-- **Blogs and Online Tutorials:** Platforms like [Machine Learning Mastery](https://machinelearningmastery.com/) provide practical guides and tutorials.
-- **Research Journals and Articles:** Reading journals on platforms like [IEEE Xplore](https://ieeexplore.ieee.org/) and [Nature Machine Intelligence](https://www.nature.com/natmachintell/) can provide insights into the latest research and developments in ML.
+- [**AI vs Machine Learning: How Do They Differ? | Google Cloud**](https://cloud.google.com/learn/artificial-intelligence-vs-machine-learning)
+- [**Machine learning, explained | MIT Sloan**](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained)
+- [**Artificial Intelligence (AI) vs. Machine Learning | Columbia Engineering**](https://ai.engineering.columbia.edu/ai-vs-machine-learning/)

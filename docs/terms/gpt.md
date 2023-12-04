@@ -37,6 +37,6 @@ The development of GPT represents a significant leap in natural language process
 
 To expand your knowledge of GPT and AI, consider exploring these resources:
 
-- **OpenAI's Blog:** [OpenAI](https://openai.com/blog/) provides detailed insights into GPT and its developments.
-- **Machine Learning Basics:** Websites like [Coursera](https://www.coursera.org/) and [Khan Academy](https://www.khanacademy.org/) offer courses that introduce the fundamentals of machine learning and AI.
-- **AI Ethics:** The [AI Ethics Lab](https://aiethicslab.com/) provides resources and discussions on the ethical aspects of AI, a crucial part of understanding the impact of technologies like GPT.
+- [**What is GPT? | Amazon**](https://aws.amazon.com/what-is/gpt/)
+- [**Simply explained: how does GPT work? | Confused bit**](https://confusedbit.dev/posts/how_does_gpt_work/)
+- [**What is GPT: Everything you need to know about GPT-3 and GPT-4 | Zapier**](https://zapier.com/blog/what-is-gpt/)

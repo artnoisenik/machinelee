@@ -1,0 +1,8 @@
+{
+    "label": "GPT Tools",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "description": "A small collection of GPT-based tools."
+    }
+}

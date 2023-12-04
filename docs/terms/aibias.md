@@ -39,6 +39,6 @@ Bias in AI can perpetuate and exacerbate existing societal inequalities. It's cr
 
 For those interested in exploring the topic of AI bias further, the following resources are recommended:
 
-- **Online Courses:** Websites like [Coursera](https://www.coursera.org/) offer courses on AI ethics and fairness.
-- **Research Papers:** Journals on platforms like [Google Scholar](https://scholar.google.com/) provide academic insights into AI bias and its mitigation.
-- **Reports and Articles:** Organizations like [AI Now Institute](https://ainowinstitute.org/) publish reports and articles exploring the social implications of AI, including bias.
+- [**Why it’s so damn hard to make AI fair and unbiased | Vox**](https://www.vox.com/future-perfect/22916602/ai-bias-fairness-tradeoffs-artificial-intelligence)
+- [**What Do We Do About the Biases in AI? | Harvard Business Review**](https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai)
+- [**Open source data science: How to reduce bias in AI | World Economic Forum**](https://www.weforum.org/agenda/2022/10/open-source-data-science-bias-more-ethical-ai-technology/)

@@ -34,16 +34,9 @@ While AGI represents a frontier of technological advancement with the potential 
 
 ### Further Reading
 
-1. **Wikipedia: Artificial General Intelligence**
+- [**Wikipedia: Artificial General Intelligence**](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
    - This Wikipedia page provides a comprehensive overview of AGI, including its history, theoretical foundations, and potential implications.
-   - [Artificial General Intelligence - Wikipedia](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
-
-2. **OpenAI: Planning for AGI and Beyond**
+- [**OpenAI: Planning for AGI and Beyond**](https://openai.com/blog/planning-for-agi-and-beyond/)
    - An insightful blog post by OpenAI discussing their approach and considerations for the development and implications of AGI.
-   - [Planning for AGI and Beyond - OpenAI](https://openai.com/blog/planning-for-agi-and-beyond/)
-
-3. **MIT Technology Review: Google DeepMind's Perspective on AGI**
+- [**MIT Technology Review: Google DeepMind's Perspective on AGI**](https://www.technologyreview.com/2023/11/16/1083498/google-deepmind-what-is-artificial-general-intelligence-agi/)
    - An article discussing Google DeepMind's efforts to define and achieve AGI, along with the challenges and potential pathways.
-   - [Google DeepMind on AGI - MIT Technology Review](https://www.technologyreview.com/2023/11/16/1083498/google-deepmind-what-is-artificial-general-intelligence-agi/)
-
-While these sources provide a good starting point, there are many more articles and resources available online for those interested in delving deeper into AGI. Unfortunately, I wasn't able to access some websites due to restrictions, so there might be additional valuable resources out there. I recommend exploring reputable tech and science news websites, academic journals, and AI research organizations' blogs for more in-depth and up-to-date information on AGI.

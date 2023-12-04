@@ -43,6 +43,6 @@ Despite its advancements, NLP faces challenges like understanding different dial
 
 For those keen on exploring NLP further, the following resources are invaluable:
 
-- **Introductory Courses:** Websites like [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/) offer courses on NLP and AI for beginners.
-- **Online Tutorials:** Platforms like [Kaggle](https://www.kaggle.com/learn/natural-language-processing) provide practical tutorials on NLP.
-- **Research Papers and Articles:** Reading latest research papers on platforms like [arXiv](https://arxiv.org/) can provide deeper insights into the advancements in NLP.
+- [**What is Natural Language Proccessing | Amazon**](https://aws.amazon.com/what-is/nlp/#:~:text=Natural%20language%20processing%20(NLP)%20is,manipulate%2C%20and%20comprehend%20human%20language.)
+- [**The Power of Natural Language Processing | Harvard Business Review**](https://hbr.org/2022/04/the-power-of-natural-language-processing)
+- [**A Complete Guide to Natural Language Processing | DeepLearning.ai**](https://www.deeplearning.ai/resources/natural-language-processing/)

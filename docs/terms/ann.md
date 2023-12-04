@@ -45,6 +45,6 @@ While ANNs are powerful, they also present challenges such as the need for large
 
 For a deeper dive into Artificial Neural Networks, consider exploring the following resources:
 
-- **Online Courses:** Platforms like [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/) offer courses in neural networks and deep learning.
-- **Informative Blogs:** Websites like [Towards Data Science](https://towardsdatascience.com/) provide articles that simplify complex AI concepts, including ANNs.
-- **Research Papers:** Reading academic papers on platforms like [Google Scholar](https://scholar.google.com/) can offer insights into the latest research and advancements in ANNs.
+- [**History of AI and ANNs | Aurora University**](https://libguides.aurora.edu/ChatGPT/History-of-AI-and-Neural-Networks)
+- [**What are neural networks? | IBM**](https://www.ibm.com/topics/neural-networks#:~:text=Neural%20networks%2C%20also%20known%20as,neurons%20signal%20to%20one%20another)
+- [**Explained: Neural networks | MIT**](https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414)

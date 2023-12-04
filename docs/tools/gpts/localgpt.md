@@ -1,7 +1,7 @@
 ---
 id: localgpt
 title: LocalGPT
-sidebar_position: 12
+sidebar_position: 3
 ---
 # LocalGPT: Bringing AI to Your Personal Devices
 

@@ -55,6 +55,6 @@ While fine tuning is powerful, it's not without challenges:
 
 To explore more about fine tuning and AI, consider the following resources:
 
-- [Machine Learning Mastery](https://machinelearningmastery.com/): Offers comprehensive guides and tutorials on various aspects of machine learning, including fine tuning.
-- [Towards Data Science on Medium](https://towardsdatascience.com/): A platform where data scientists share insights and tutorials, including topics on fine tuning.
-- [Google AI Blog](https://ai.googleblog.com/): Provides updates and insights on the latest developments in AI, including research on model training.
+- [**Fine-tune a pretrained model | Hugging Face**](https://huggingface.co/docs/transformers/training)
+- [**Fine-tuning | OpenAI**](https://platform.openai.com/docs/guides/fine-tuning)
+- [**A Comprehensive guide to Fine-tuning Deep Learning Models in Keras (Part I) | Felix Yu**](https://flyyufelix.github.io/2016/10/03/fine-tuning-in-keras-part1.html)

@@ -31,3 +31,5 @@ This guide provides a foundational understanding of key terms in the field of AI
 15. **Chatbot:** A software application used to conduct an online chat conversation via text or text-to-speech, in lieu of providing direct contact with a human agent. Often powered by LLMs.
 
 16. **Bias in AI:** Refers to the tendency of AI models to produce results that are systemically prejudiced due to erroneous assumptions in the machine learning process.
+
+17. **Prompt Engineering:** The process of designing and refining input prompts to effectively guide an AI model's responses towards desired outcomes or specific types of information.

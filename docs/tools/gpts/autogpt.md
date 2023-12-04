@@ -1,7 +1,7 @@
 ---
 id: autogpt
 title: AutoGPT
-sidebar_position: 11
+sidebar_position: 5
 ---
 # AutoGPT: The Autonomous AI Assistant for Modern Times
 
@@ -37,4 +37,3 @@ To expand your understanding of AutoGPT and its place in the AI landscape, consi
 
 - **Auto-GPT Official Website:** [Auto-GPT](https://auto-gpt.ai) offers detailed information, documentation, and the latest updates on AutoGPT.
 - **OpenAI:** [OpenAI's Website](https://openai.com/) provides insights into the AI models that power tools like AutoGPT.
-- **TechCrunch AI Articles:** [TechCrunch](https://techcrunch.com/) covers the latest trends and developments in AI, offering a broader perspective on tools like AutoGPT and their impact.

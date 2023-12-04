@@ -45,6 +45,6 @@ Deep Learning models require vast amounts of data and computational power, which
 
 For those looking to explore Deep Learning further, the following resources are invaluable:
 
-- **Online Learning Platforms:** [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/) offer courses on Deep Learning and AI.
-- **Blogs and Tech News:** Websites like [MIT Technology Review](https://www.technologyreview.com/) provide insights into the latest trends in AI and Deep Learning.
-- **Deep Learning Frameworks:** Exploring tools like TensorFlow and PyTorch, available on their respective websites, can give hands-on experience with Deep Learning.
+- [**Deep Learning Book | Ian Goodfellow and Yoshua Bengio and Aaron Courville**](https://www.deeplearningbook.org/)
+- [**Deep Learning vs Machine Learning | Zendesk**](https://www.zendesk.com/blog/machine-learning-and-deep-learning/)
+- [**Introduction to Deep Learning | Geeks for Geeks**](https://www.geeksforgeeks.org/introduction-deep-learning/)

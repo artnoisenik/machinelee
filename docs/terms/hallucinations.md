@@ -41,6 +41,6 @@ AI hallucinations also raise ethical concerns. They can perpetuate biases presen
 
 For those interested in exploring more about AI and hallucinations, the following resources offer valuable insights:
 
-- [AI Weirdness](https://aiweirdness.com/): A blog that explores the quirky and unusual outputs of AI, including examples of hallucinations.
-- [DeepMind's Blog](https://deepmind.com/blog): Provides cutting-edge research and insights into AI development, including addressing AI hallucinations.
-- [MIT Technology Review](https://www.technologyreview.com/): Offers articles and analysis on the latest technology trends, including AI and its societal impacts.
+- [**When algorithms surprise us | AI Weirdness**](https://www.aiweirdness.com/when-algorithms-surprise-us-18-04-13/)
+- [**When A.I. Chatbots Hallucinate | The New York Times**](https://www.nytimes.com/2023/05/01/business/ai-chatbots-hallucination.html)
+- [**Understanding Hallucinations in AI: A Comprehensive Guide | Pinecone**](https://www.pinecone.io/learn/ai-hallucinations/)
