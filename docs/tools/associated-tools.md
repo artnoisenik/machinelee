@@ -42,6 +42,8 @@ These resources are good starting points for those interested going deeper into 
 
 5. [**Google's AI Resources**](https://ai.google/): Google offers over 20 resources including guides, podcasts, videos, courses, and interactive content. These resources cover various topics, including machine learning and TensorFlow APIs. Many of these resources are free.
 
+6. [**DeepLearning.AI Courses**](https://www.deeplearning.ai/courses/): DeepLearning.AI courses range from beginner (Generative AI for Everyone) to more advanced (Machine Learning Engineering for Production). Certification is available with many of these.
+
 ### Additional Software and Platforms
 
 This is a list of more advanced resources that are compliments to AI. The list includes programming languages, libraries, APIs, frameworks, and more.

@@ -36,5 +36,3 @@ The introduction of LocalGPT marks a significant shift in how AI can be utilized
 For those interested in exploring LocalGPT and similar technologies, the following resources offer valuable insights:
 
 - **LocalGPT on GitHub:** [LocalGPT GitHub Page](https://github.com/PromtEngineer/localGPT) - The primary source for downloading LocalGPT, with documentation and user guides.
-- **AI Privacy Concerns:** Articles on platforms like [Wired](https://www.wired.com/) or [TechCrunch](https://techcrunch.com/) often discuss the latest developments and concerns in AI privacy.
-- **Understanding GPT Models:** Websites like [OpenAI](https://openai.com/) provide extensive information on GPT models, which are foundational to understanding LocalGPT's functionality.
