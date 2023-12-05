@@ -1,41 +1,46 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 3](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+## Contribution Guidelines
 
+We welcome contributions.
+
+What kind of contributions are we looking for?
+
+- content suggestions
+- translation
+- content/copy contributions
+- typos :)
+
+
+## Local Development
+
+First, install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [node](https://nodejs.org/en/download/).
+
+Make sure you are using Node 18.0.0 or higher (`node -v`). Then, run the following commands in a terminal:
 ```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+# download the website code with git
+git clone https://github.com/trigaten/Learn_Prompting.git
+# enter the project directory
+cd Learn_Prompting
+# install node modules
+npm i
+# run the website locally
+npm start
 ```
 
-Not using SSH:
+If you get an error related to the node version, you probably are using an older version of node.
 
+Make sure the newer version appears higher in your path than any older versions. 
+
+Alternatively, you can use [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) to install the latest version of node. Install nvm, then do the following:
 ```
-$ GIT_USER=<Your GitHub username> yarn deploy
+export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+nvm install-latest-npm
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+`npm start` starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+We are hosted on [Vercel](https://vercel.com/).
