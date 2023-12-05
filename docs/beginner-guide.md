@@ -30,7 +30,7 @@ AI works by combining large amounts of data with fast, iterative processing and 
 - Deep learning
 
 :::info 
-**Iterative processing** is like doing a puzzle in stages, rather than trying to complete it all at once. Imagine you have a puzzle of a landscape. Instead of trying to put together the entire scene at once, you might start with just the sky, then move on to the trees, and so on. Each time you complete a section, you check to see if it looks right and make any necessary adjustments before moving on to the next part. In the same way, iterative processing in computing means breaking down a task into smaller parts, working on one part at a time, checking it, and then moving on to the next, until the whole task is completed.
+**Iterative processing** is like doing a puzzle in stages, rather than trying to complete it all at once, imagine you have a puzzle of a landscape. Instead of trying to put together the entire scene at once, you might start with just the sky, then move on to the trees, and so on. Each time you complete a section, you check to see if it looks right and make any necessary adjustments before moving on to the next part. In the same way, iterative processing in computing means breaking down a task into smaller parts, working on one part at a time, checking it, and then moving on to the next, until the whole task is completed.
 :::
 
 To understand these concepts better, you might find these resources helpful:
