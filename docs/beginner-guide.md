@@ -54,5 +54,5 @@ Read more about AI applications here:
 As AI becomes more integrated into our lives, ethical concerns are raised about privacy, surveillance, unemployment due to automation, and the potential of AI in weaponry. The future of AI offers both promising advancements and significant challenges.
 
 For a balanced view on AI ethics and future, consider these articles:
-- [**Ethics of AI - MIT**](https://philosophy.mit.edu/ethicsandai/)
+- [**Ethics & AI - MIT**](https://philosophy.mit.edu/ethicsandai/)
 - [**Ethics and the Future of AI (Video) - Oxford University**](https://www.youtube.com/watch?v=HYuk-qMkY6Q)
