@@ -36,5 +36,3 @@ We recognize there are many contributors to the field of AI. While this is not a
 
 10. **Judea Pearl** - Made significant contributions to AI through his work in Bayesian networks and causality.
     - Relevant Book: "Causality: Models, Reasoning, and Inference" (2000)
-
-Each of these individuals has significantly influenced the development of AI through their research, theories, and practical applications. Their work has paved the way for the current and future advancements in the field.
