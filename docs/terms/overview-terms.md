@@ -10,12 +10,6 @@ This guide provides a foundational understanding of key terms in the field of AI
 
 2. **Hallucinations:** In the context of LLMs, hallucinations refer to instances where the model generates incorrect or nonsensical information, often with confidence. These are not deliberate fabrications but result from the model's limitations in understanding context or factual accuracy.
 
-6. **LocalGPT:** This likely refers to a version of a GPT (Generative Pre-trained Transformer) model that is designed to run locally on a user's machine or a private server, as opposed to being hosted remotely. This can be important for privacy, speed, or offline access.
-
-7. **AutoGPT:** This term seems to imply an automated or self-running version of a GPT model. It could suggest a system where the model operates with minimal human intervention, possibly adapting or improving itself over time.
-
-8. **PrivateGPT:** As the name suggests, PrivateGPT would be a GPT model tailored for private use, possibly emphasizing data security and user privacy. It might be customized to handle sensitive information in a controlled environment.
-
 9. **GPT (Generative Pre-trained Transformer):** A type of LLM known for its ability to generate human-like text. It's pre-trained on a vast corpus of text and then fine-tuned for specific tasks.
 
 10. **Transformer Models:** A type of neural network architecture that's particularly effective for processing sequences of data, like text. Transformers are the backbone of many modern LLMs, including GPT models.
