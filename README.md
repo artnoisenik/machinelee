@@ -1,8 +1,10 @@
 # Website
 
-This website is built using [Docusaurus 3](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 3](https://docusaurus.io/), a modern static website generator. We are hosted on [Vercel](https://vercel.com/).
 
-## Contribution Guidelines
+Rest of the README lifted from [Learn Prompting](https://github.com/trigaten/Learn_Prompting).
+
+## Contributions
 
 We welcome contributions.
 
@@ -42,5 +44,3 @@ nvm install-latest-npm
 ```
 
 `npm start` starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-We are hosted on [Vercel](https://vercel.com/).
