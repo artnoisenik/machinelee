@@ -1,6 +1,6 @@
 ---
 id: beginner-guide
-title: An Introduction to Artificial Intelligence
+title: 🦾 Introduction to Artificial Intelligence
 sidebar_position: 1
 ---
 
