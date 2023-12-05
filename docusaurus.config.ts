@@ -1,6 +1,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import 'dotenv/config';
 
 const config: Config = {
   title: 'Machinelee',
@@ -65,6 +66,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/about', label: 'About', position: 'left'},
+        {to: '/faqs', label: 'FAQs', position: 'left'},
         {
           href: 'https://github.com/artnoisenik/machinelee',
           label: 'GitHub',
@@ -73,6 +75,11 @@ const config: Config = {
         {
           href: 'https://www.linkedin.com/newsletters/machinelee-7125253234671181825',
           label: 'LinkedIn',
+          position: 'right',
+        },
+        {
+          href: "mailto:"+process.env.EMAIL,
+          label: 'Contact',
           position: 'right',
         },
       ],
