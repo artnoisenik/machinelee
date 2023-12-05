@@ -21,7 +21,7 @@ This is a very incomplete list of current and ongoing LLMs. For a larger selecti
 5. [**RoBERTa (Facebook AI)**](https://ai.facebook.com/blog/roberta-an-optimized-method-for-pretraining-self-supervised-nlp-systems/)
    - Description: An optimized version of BERT, it has been fine-tuned for more robust performance on NLP tasks.
 
-6. [**ELECTRA (Google)**]((https://github.com/google-research/electra))
+6. [**ELECTRA (Google)**](https://github.com/google-research/electra)
    - Description: A model designed to be more efficient than BERT for pre-training language representations.
 
 7. [**Transformer (Google Brain)**](https://www.tensorflow.org/tutorials/text/transformer)
