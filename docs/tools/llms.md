@@ -41,3 +41,9 @@ This is a very incomplete list of current and ongoing LLMs. For a larger selecti
 [**Hugging Face**](https://huggingface.co/) is a technology company that specializes in artificial intelligence (AI), particularly in the field of natural language processing (NLP), which is the ability of computers to understand, interpret, and respond to human language. Their most notable contribution is the development of powerful AI models that can understand text and even write it in a way that seems very human-like. These models are used in various applications like chatbots, language translation, and content creation.
 
 What makes Hugging Face stand out is its commitment to making AI accessible and easy to use. They offer a platform where developers, even those without deep technical knowledge, can use or improve these AI models. Additionally, they foster a collaborative community where people can share, learn, and build AI projects together. Their approach is very user-friendly, focusing on making AI technology more open and available to a wider range of people and industries.
+
+### Further Resources
+
+- [**The Busy Person’s Intro to Large Language Models by Andrej Karpathy (video)**](https://youtu.be/zjkBMFhNj_g?si=uxSUVs9T45z5j6_S)
+- [**Busy Person's Intro to LLLMs Reading List**](https://blog.oxen.ai/reading-list-for-andrej-karpathys-intro-to-large-language-models-video/)
+

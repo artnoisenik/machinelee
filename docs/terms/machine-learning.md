@@ -46,3 +46,4 @@ For those interested in delving deeper into Machine Learning, the following reso
 - [**AI vs Machine Learning: How Do They Differ? | Google Cloud**](https://cloud.google.com/learn/artificial-intelligence-vs-machine-learning)
 - [**Machine learning, explained | MIT Sloan**](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained)
 - [**Artificial Intelligence (AI) vs. Machine Learning | Columbia Engineering**](https://ai.engineering.columbia.edu/ai-vs-machine-learning/)
+- [**Machine Learning Primer by Mihail Eric (PDF)**](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)

@@ -1,7 +1,7 @@
 ---
 id: autogpt
 title: AutoGPT
-sidebar_position: 5
+sidebar_position: 6
 ---
 # AutoGPT: The Autonomous AI Assistant for Modern Times
 

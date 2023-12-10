@@ -50,6 +50,8 @@ These resources are good starting points for those interested going deeper into 
 
 6. [**DeepLearning.AI Courses**](https://www.deeplearning.ai/courses/): DeepLearning.AI courses range from beginner (Generative AI for Everyone) to more advanced (Machine Learning Engineering for Production). Certification is available with many of these.
 
+7. [**Resources to Learn ChatGPT and the OpenAI API by u/richie_cotton**](https://www.reddit.com/r/OpenAI/comments/188gaiv/resources_to_learn_chatgpt_and_the_openai_api/): A large list of resources of online courses, tutorials, and repos from Redittors.
+
 ### Additional Software and Platforms
 
 This is a list of more advanced resources that are compliments to AI. The list includes programming languages, libraries, APIs, frameworks, and more.

@@ -1,7 +1,7 @@
 ---
 id: privategpt
 title: PrivateGPT
-sidebar_position: 4
+sidebar_position: 5
 ---
 # PrivateGPT: Enhancing AI Privacy in the Digital Age
 
