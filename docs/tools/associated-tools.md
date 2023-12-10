@@ -30,9 +30,9 @@ These chatbots and platforms are excellent places to start exploring the possibi
 
 9. [**Gemini**](https://deepmind.google/technologies/gemini/#introduction): A model designed from the beginning for multimodal communication, smoothly integrating text, images, video, audio, and code.
 
-::info
+:::info
 A **multimodal model** is a type of artificial intelligence that can understand and process different types of information, such as text, images, videos, and audio, all at once. Imagine a robot that can read a book, look at pictures, watch a movie, listen to music, and even understand computer code. This robot doesn't just understand each of these things separately; it can make connections between them. For example, it might read a story, recognize the characters in a picture, understand the plot in a movie, hear the emotions in a song, and even create its own stories or pictures by mixing all these skills together. This is what a multimodal model does – it combines different ways of understanding the world to be more versatile and smart, just like a multi-talented person who is good at many different things.
-::
+:::
 
 ### Beginner Resources
 
