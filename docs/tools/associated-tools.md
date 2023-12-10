@@ -28,6 +28,8 @@ These chatbots and platforms are excellent places to start exploring the possibi
 
 8. [**Tidio**](https://www.tidio.com/): Highly rated for small and medium-sized businesses, Tidio offers an easy and quick chatbot editor, integrating live chat with chatbots.
 
+9. [**Gemini**](https://deepmind.google/technologies/gemini/#introduction): A model designed from the beginning for multimodal communication, smoothly integrating text, images, video, audio, and code.
+
 ### Beginner Resources
 
 These resources are good starting points for those interested going deeper into the nuts and bolts of AI. 
